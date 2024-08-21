@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- Hello 👋, I am Nilay Pawale
+- I am interested to work as a Software Developer
+- Ask me about Java, C, C++, HTML5, CSS3, MySQL, Hibernate and Spring Core
+- How to reach me nilaypawale@gmail.com
+  
+
 <!--
 **NilayPawale/NilayPawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
