@@ -6,6 +6,10 @@
 - How to reach me nilaypawale@gmail.com
   
 <a href="https://github.com/NilayPawale/HandyMart/blob/main/README.md">CDAC Project - Handy Mart Web Portal</a>
+
+<a href="https://github.com/NilayPawale/Core-Java/blob/869eed4d1cb61b58f26e1e7c4d2b3df250584e8f/Standalone%20CRUD%20Applications/Pen_Standalone/README.md">Java Standalone CRUD Application Project - Pen Manufacturing Management System</a>
+
+
 <!--
 **NilayPawale/NilayPawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
