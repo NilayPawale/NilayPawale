@@ -5,7 +5,7 @@
 - Ask me about Java, C, C++, HTML5, CSS3, MySQL, Hibernate and Spring Core
 - How to reach me nilaypawale@gmail.com
   
-<a href="[README.md](https://github.com/NilayPawale/HandyMart/blob/c8827fddbaac5fb6d8a5a12d5ee686b85e767a11/README.md)">CDAC Project - Handy Mart Web Portal</a>
+<a href="README.md">CDAC Project - Handy Mart Web Portal</a>
 <!--
 **NilayPawale/NilayPawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
